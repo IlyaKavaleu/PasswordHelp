@@ -8,11 +8,11 @@ Stack:
 Firstly, create and activate a new virtual environment:
 python3.9 -m venv ../venv source ../venv/bin/activate
 
-Install packages:
-<h3>pip install --upgrade pip</h3>h3>
+<h3>Install packages:</h3>
+pip install --upgrade pip
 
+<h3>Run project dependencies and local server.<h3>
+pip install -r requirements.txt
+python manage.py runserver
 
-Run project dependencies and local server.
-<h3>pip install -r requirements.txt</h3>
-<h3>python manage.py runserver</h3>
-
+<h3>Go to link -- http://127.0.0.1:8000/</h3>
