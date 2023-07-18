@@ -1,0 +1,16 @@
+{% extends "generator/base.html" %}
+{% block content %}
+<div class="container text-center">
+<div style="margin:80px">
+    <h1>Contacts</h1>
+    <h4>Write to us if you have any questions</h4>
+    <p>
+Please write your name, email address and message.    </p>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Send</button>
+    </form>
+</div>
+</div>
+{% endblock content %}
