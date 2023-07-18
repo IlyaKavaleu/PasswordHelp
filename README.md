@@ -1,6 +1,6 @@
 <h1>PasswordHelp</h1>
 
-<h3>How started my project on your local server?</h3>h3>
+<h3>How started my project on your local server?</h3>
 The project for study Django.
 
 Stack:
