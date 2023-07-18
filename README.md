@@ -62,5 +62,21 @@ We can also diversify our password by adding capital letters, numbers and symbol
 
 8. - Next, we are offered to fill out a form to send a letter to your mail, immediately after clicking the "Send" button,
 a message will arrive in your mail with your new generated password.
-![sendpasswordtogmail_8](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3ee2d304-f7b5-4f20-a471-bef0c0ec7543)
+![sendpasswordtogmail_8](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3fd83afb-184e-4143-84df-6b671afc495a)
 
+
+9. - Just look, this is our password that came to our mail!
+![passwordinmygmail_10](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3d80831a-9de7-475e-872a-21e0a16295e4)
+
+
+10. - Page about service.
+![aboutpage_10](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/eb709da4-3a75-4898-9a37-9336118a130e)
+
+     
+11. - After working with the service, we can log out using the "Log out" button.
+![loggedoutpage_11](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3a60f747-05ab-482b-97fa-7d7a7163e624)
+
+
+
+
+      
