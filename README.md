@@ -1,21 +1,18 @@
-o Do Woo
-How started my project on your local server?
-The project for study Django.<
+<h1>PasswordHelp</h1>
+
+<h3>How started my project on your local server?</h3>h3>
+The project for study Django.
 
 Stack:
-- Python - SqLite - Redis - Local Developing All actions should be executed from the source directory of the project and only after installing all requirements.
+- Python - HTML - CSS - Local Developing All actions should be executed from the source directory of the project and only after installing all requirements.
 Firstly, create and activate a new virtual environment:
 python3.9 -m venv ../venv source ../venv/bin/activate
 
 Install packages:
-pip install --upgrade pip
+<h3>pip install --upgrade pip</h3>h3>
 
-pip install -r requirements.txt
 
-Run project dependencies, migrations, fill the database with the fixture data etc.:
-./manage.py migrate ./manage.py loaddata <path_to_fixture_files> ./manage.py runserver
+Run project dependencies and local server.
+<h3>pip install -r requirements.txt</h3>
+<h3>python manage.py runserver</h3>
 
-Run Redis Server:
-redis-server
-Run Celery:
-celery -A store worker --loglevel=INFO
