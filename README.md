@@ -57,8 +57,10 @@ We can also diversify our password by adding capital letters, numbers and symbol
 
 7. - Now we can copy this password, save it to our computer or phone, or send this password to us by mail. To do this, you need to click on the "Send this password to you to us an email to save" button.
      
-<center>![sendpasswordbottom_7](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/f275597f-3bfc-4909-a450-b126f2c11bc4)</center>
-
+![sendpasswordbottom_7](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/f275597f-3bfc-4909-a450-b126f2c11bc4)
      
-8.
+
+8. - Next, we are offered to fill out a form to send a letter to your mail, immediately after clicking the "Send" button,
+a message will arrive in your mail with your new generated password.
+![sendpasswordtogmail_8](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3ee2d304-f7b5-4f20-a471-bef0c0ec7543)
 
