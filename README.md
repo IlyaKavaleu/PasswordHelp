@@ -66,6 +66,7 @@ a message will arrive in your mail with your new generated password.
 
 
 9. - Just look, this is our password that came to our mail!
+     
 ![passwordinmygmail_10](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3d80831a-9de7-475e-872a-21e0a16295e4)
 
 
