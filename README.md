@@ -52,7 +52,7 @@ We can also diversify our password by adding capital letters, numbers and symbol
 
 
 6. - Just look, this is our new generated password with all the criteria taken into account.
-![newgeneretepassword_6](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/b642839a-05ae-434c-99e6-419e2e827f75)
+![newgeneratedpassword_6](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/253e6c5e-6f8e-4bb5-a1ea-e94a444ae68f)
 
 
 7. - Now we can copy this password, save it to our computer or phone, or send this password to us by mail. To do this, you need to click on the "Send this password to you to us an email to save" button.
@@ -66,8 +66,7 @@ a message will arrive in your mail with your new generated password.
 
 
 9. - Just look, this is our password that came to our mail!
-     
-![passwordinmygmail_10](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3d80831a-9de7-475e-872a-21e0a16295e4)
+![passwardingmail_9](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/2d45c408-b5e4-4504-bd7a-2cc51cb35386)
 
 
 10. - Page about service.
