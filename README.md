@@ -74,7 +74,7 @@ a message will arrive in your mail with your new generated password.
 ![aboutpage_10](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/eb709da4-3a75-4898-9a37-9336118a130e)
 
      
-11. - After working with the service, we can log out using the "Log out" button.
+11. - After working with the service, we can log out using the "Log out" button and we redirect to home page.
 ![loggedoutpage_11](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/3a60f747-05ab-482b-97fa-7d7a7163e624)
 
 
