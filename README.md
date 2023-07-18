@@ -28,3 +28,36 @@ All information about the passwords you have generated is strictly confidential 
 To use the service, you need to log in, if there is no account, the service offers quick registration and, as mentioned above, after logging in, the service allows you to send the generated password to your email.
 
 
+1. - Main service page looks like this.
+![mainpage_1](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/d47d8c68-838e-4b93-87f1-4d74d15a02da)
+
+
+2. - By clicking on the "Register" button, we give the opportunity to register
+![registerpage_2](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/d365e3a6-67a3-41e6-b265-8178c8a59a7c)
+
+
+3. - If the user is already registered, you need to go through authorization.
+![loginpage_3](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/4f7f857e-359c-4142-b14a-39d0cfeced03)
+
+
+
+4. - If any of the two listed operations, registration or authorization, is successful, we go to a page where we see a window with the ability to generate a password according to the criteria that suits us.
+We can select the password length we need in the drop-down box, the default is 15, the range is from 10 to 18.
+We can also diversify our password by adding capital letters, numbers and symbols to it, all these criteria will be taken into account when generating a password
+![passwordgeneratepage_4](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/8fda2dc4-3138-438a-b31c-9466fe4275b9)
+
+
+5. - Let's choose everything and to the maximum.
+![passwordgeneratepage_full_5](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/f07598d0-4b44-426a-90dd-a33932894b3e)
+
+
+6. - Just look, this is our new generated password with all the criteria taken into account.
+![newgeneretepassword_6](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/b642839a-05ae-434c-99e6-419e2e827f75)
+
+
+7. - Now we can copy this password, save it to our computer or phone, or send this password to us by mail. To do this, you need to click on the "Send this password to you to us an email to save" button.
+![sendpasswordbottom_7](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/f275597f-3bfc-4909-a450-b126f2c11bc4)
+
+     
+8.
+
