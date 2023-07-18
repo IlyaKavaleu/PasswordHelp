@@ -11,7 +11,7 @@ python3.9 -m venv ../venv source ../venv/bin/activate
 <h3>Install packages:</h3>
 pip install --upgrade pip
 
-<h3>Run project dependencies and local server.<h3>
+<h3>Run project dependencies and local server.</h3>
 pip install -r requirements.txt
 python manage.py runserver
 
