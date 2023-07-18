@@ -1,5 +1,6 @@
 {% extends "generator/base.html" %}
 {% block content %}
+
 <div class="container text-center">
 <h1>Password Generator</h1>
 <form action="{% url 'password' %}">
@@ -12,7 +13,8 @@
         <option value="16">16</option>
         <option value="17">17</option>
         <option value="18">18</option>
-    </select> Lenght
+    </select>Lenght
+
     <br>
     <input type="checkbox" name="uppercase">Uppercase
     <br>
@@ -24,4 +26,5 @@
     <p><input type="submit" value="Generated Password" class="btn btn-primary"></p>
 </form>
 </div>
+
 {% endblock content %}

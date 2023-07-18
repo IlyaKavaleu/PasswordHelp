@@ -6,7 +6,6 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.decorators import login_required
 from password_generator.settings import SENDER, PASSWORD
 from .forms import ContactForm
-from .models import Password_Model
 from django.core.mail import send_mail, BadHeaderError
 from django.http import HttpResponse
 import smtplib
@@ -49,7 +48,7 @@ def about(request):
 def register(request):
     """
     user registration method, by filling in UserCreationForm we,
-     if successful, register a new user and redirect
+    if successful, register a new user and redirect
     to the main page
     """
     if request.method != "POST":
