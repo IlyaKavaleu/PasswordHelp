@@ -66,7 +66,7 @@ a message will arrive in your mail with your new generated password.
 
 
 9. - Just look, this is our password that came to our mail!
-![passwardingmail_9](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/2d45c408-b5e4-4504-bd7a-2cc51cb35386)
+![passwardingmail_9](https://github.com/IlyaKavaleu/PasswordHelp/assets/97099564/0c987ddd-3e4c-491a-be3b-af12dc3b9b2c)
 
 
 10. - Page about service.
