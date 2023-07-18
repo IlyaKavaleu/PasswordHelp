@@ -16,5 +16,4 @@ pip install -r requirements.txt
 
 python manage.py runserver
 
-
-<h3>Go to link -- http://127.0.0.1:8000/</h3>
+<h3>After completing the steps follow the link-- http://127.0.0.1:8000/</h3>
